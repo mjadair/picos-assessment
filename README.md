@@ -1,5 +1,3 @@
-# Picos Frontend Assessment
-
 ## A few notes on completion
 
 I did as advised and only spent a couple of hours on this task. 
@@ -7,8 +5,7 @@ I did as advised and only spent a couple of hours on this task.
 - Should I have expected to spend more time I would have considered making a reusable Form component -- but quickly realised that trying to plan what state should be passed to this form that could keep it universal proved time consuming! So stuck to creating it as a page. 
 - I included one very basic test to show an awareness. Again, this is something I would consider improving upon with more time to spend. 
 
-
-
+# Picos Frontend Assessment
 
 We would like to gather an understanding of how you code a simple page.
 
