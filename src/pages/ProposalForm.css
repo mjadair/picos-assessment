@@ -1,0 +1,40 @@
+.FormContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    min-height: 300px;
+}
+
+.FormContainer form {
+    padding: 32px;
+    width: 100%;
+    background-color: var(--grey);
+}
+
+.FormContainer .dropdown-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.FormContainer .dropdown-container .Dropdown {
+    width: 50%;
+    min-width: 170px;
+}
+
+.FormContainer .image-container {
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.FormContainer .form-success {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--grey);
+    padding: 32px;
+}

@@ -1,0 +1,34 @@
+button {
+  appearance: none;
+  background-color: var(--very-dark);
+  color: white;
+  padding: 9px 12px;
+  border: none;
+  font: inherit;
+  font-weight: bold;
+  width: 100%;
+  margin-top: 20px;
+}
+
+button:not(:disabled) {
+  cursor: pointer;
+}
+
+button:not(:disabled):focus {
+  background-color: var(--primary);
+  outline: 2px solid orange;
+  outline-offset: 2px;
+}
+
+button:not(:disabled):active {
+  background-color: var(--primary);
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+button:hover {
+  background-color: var(--dark);
+}
