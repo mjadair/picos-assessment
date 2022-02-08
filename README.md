@@ -2,7 +2,7 @@
 
 I did as advised and only spent a couple of hours on this task. 
 
-- Should I have expected to spend more time I would have considered making a reusable Form component -- but quickly realised that trying to plan what state should be passed to this form that could keep it universal proved time consuming! So stuck to creating it as a page. 
+- Should I have expected to spend more time I would have considered making a reusable Form component -- but quickly realised that trying to plan what state should be passed to this form that could keep it universal proved time consuming! So stuck to creating it as a page in this instance. 
 - I included one very basic test to show an awareness. Again, this is something I would consider improving upon with more time to spend. 
 
 # Picos Frontend Assessment
